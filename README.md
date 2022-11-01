@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @FeelingXD
 ### Hi there 👋
 
-- 🌱 I’m currently learning Front-End 
+- 🌱 :)
 - ✍ I'm majoring in Software
 - 🥰 Turning your imagination into reality
 
