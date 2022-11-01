@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/JavaScript-FFCD28?style=flat-square&logo=JavaScript&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=Node.js&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/TypeScript-yellow?style=flat-square&logo=typescript&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/TypeScript-skyblue?style=flat-square&logo=typescript&logoColor=white"/></a> 
 <!-- 
 ![FeelingXD's github stats](https://github-readme-stats.vercel.app/api?username=FeelingXD&show_icons=true&theme=tokyonight)
 
