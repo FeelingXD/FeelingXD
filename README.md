@@ -8,10 +8,6 @@
 ##  _🌱 I’m currently learning..._
 
 > Full stack 
-- Js & Ts
-- python
-- node.js
-- etc
 #### 🔨 Tech Stack
 <!-- <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor=blue"/></a>  -->
 <img src="https://img.shields.io/badge/JavaScript-FFCD28?style=flat-square&logo=JavaScript&logoColor=white"/></a> 
