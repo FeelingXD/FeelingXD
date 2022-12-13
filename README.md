@@ -14,9 +14,8 @@
 ### Blog ✔
 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=wlals425315)](https://velog.io/@FeelingXD)
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wlals425315)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=FeelingXD)](https://velog.io/@wlals425315)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wlals425315)](https://velog.io/@wlals425315)
 
 
 
