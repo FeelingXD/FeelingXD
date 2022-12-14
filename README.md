@@ -18,6 +18,9 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wlals425315)](https://velog.io/@wlals425315)
 
+### Feeling Free to contact
+
+<a href="mailto::wlals425315@gmail.com">wlals425315@gmail.com</a>
 
 
 ### 🔨 Tech Stack
