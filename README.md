@@ -15,9 +15,8 @@
 
 ## Feel Free to contact 
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
-<a href="mailto::wlals425315@gmail.com">wlals425315@gmail.com</a>
+<a href="mailto::wlals425315@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
 ### 🔨 Tech Stack
