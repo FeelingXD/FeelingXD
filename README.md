@@ -13,7 +13,7 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wlals425315)](https://velog.io/@wlals425315)
 
-## Feel Free to contact 
+## 📧 Feel Free to contact 
 
 
 <a href="mailto::wlals425315@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
