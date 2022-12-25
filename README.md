@@ -11,12 +11,12 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=FeelingXD)](https://velog.io/@wlals425315)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wlals425315)](https://velog.io/@wlals425315)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wlals425315&Color=dark)](https://velog.io/@wlals425315)
 
 ## 📧 Feel Free to contact me
 
 
-<a href="mailto::wlals425315@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=dark"></a>
+<a href="mailto::wlals425315@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
 ### 🔨 Tech Stack
