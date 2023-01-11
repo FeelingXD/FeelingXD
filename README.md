@@ -4,7 +4,7 @@
 ##  🌱 About me 
 
 
-<a href="https://verdant-result-e1b.notion.site/Resume-of-b09dcee5d4ab49f3bbca73e60acad7a2"><img src="https://img.shields.io/badge/notion-ffffff?style=for-the-badge&logo=notion&logoColor=black"/></a>
+<a href="https://feelingxd.notion.site/Resume-of-b09dcee5d4ab49f3bbca73e60acad7a2"><img src="https://img.shields.io/badge/notion-ffffff?style=for-the-badge&logo=notion&logoColor=black"/></a>
 
 
 ## Blog ✔
