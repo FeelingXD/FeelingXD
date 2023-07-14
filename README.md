@@ -1,8 +1,15 @@
 <!-- profile line--->
 
-# 👋 Hi, I’m @FeelingXD
+### 🐳 FeelingXD
 
-### Hi there 👋
+> Focus on Why! 🤔
+
+- I'm currently looking for a job 👀
+    - studying - JAVA, OOP, SpringBoot
+    - Interested in - TDD, Clean Code
+---
+
+- Also Interested in Philosophy(Especially existentialism)
 
 ## 🌱 About me
 
@@ -10,10 +17,12 @@
 
 ## Blog ✔
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=FeelingXD)](https://velog.io/@wlals425315)
+### LatestPosts
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=wlals425315)](https://velog.io/@wlals425315)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wlals425315&color=dark)](https://velog.io/@wlals425315)
-
-### 🔨 Tech Stack
-<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/TypeScript-skyblue?style=flat-square&logo=typescript&logoColor=white"/></a>
+<!-- 
+ Now I walk between life and death every day 
+ I'm at the age to prepare for after my death
+ life is not a marathon, its an endless relay. 
+ -🙃-
+-->
