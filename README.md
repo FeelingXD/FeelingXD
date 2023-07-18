@@ -9,7 +9,7 @@
     - Interested in - TDD, Clean Code
 ---
 
-- Also Interested in Philosophy(Especially existentialism)
+- Also Interested in Art,Design, Philosophy(especially Existentialism) 😁
 
 ## 🌱 About me
 
