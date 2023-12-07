@@ -5,7 +5,7 @@
 > Focus on Why! 🤔
 
 - I'm currently looking for a job 👀
-    - studying - JAVA, OOP, SpringBoot
+    - studying - Java,Python, OOP, SpringBoot
     - Interested in - TDD, Clean Code
 ---
 
