@@ -19,7 +19,7 @@
 
 ### LatestPosts
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=wlals425315)](https://velog.io/@wlals425315)
-
+[![Tistory'S stats](https://github-readme-tistory-card.vercel.app/api?name=feelingxd)
 <!-- 
  Now I walk between life and death every day 
  I'm at the age to prepare for after my death
