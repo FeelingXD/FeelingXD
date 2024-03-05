@@ -25,7 +25,9 @@
 
 ### LatestPosts
 
-#### Velog (now moved to Tistory)
+#### Velog (now moved to Tistory)   
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=wlals425315)](https://velog.io/@wlals425315) 
+
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=wlals425315)](https://velog.io/@wlals425315)
 
