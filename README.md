@@ -31,7 +31,9 @@
 
 #### Tistory
 
-[![Tistory'S stats](https://github-readme-tistory-card.vercel.app/api?name=feelingxd)](https://feelingxd.tistory.com)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=FeelingXD)](https://feelingxd.tistory.com/)
+
+<!-- [![Tistory'S stats](https://github-readme-tistory-card.vercel.app/api?name=feelingxd)](https://feelingxd.tistory.com) -->
 
 <!--
  Now I walk between life and death every day
