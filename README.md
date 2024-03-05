@@ -16,6 +16,11 @@
 
 <a href="https://feelingxd.notion.site/Resume-of-b09dcee5d4ab49f3bbca73e60acad7a2"><img src="https://img.shields.io/badge/notion-ffffff?style=for-the-badge&logo=notion&logoColor=black"/></a>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFeelingXD&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![FeelingXD's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wlals425315)
+
+
 ## Blog ✔
 
 ### LatestPosts
