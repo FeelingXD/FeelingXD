@@ -6,7 +6,7 @@
 - 호기심, 질문 이 많으며, 왜? 라는 질문 하고 답 하는걸 선호합니다.
 ## Skills Stack
 - languege  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white),
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white),
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - FrameWorks   
 ![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
